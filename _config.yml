@@ -26,7 +26,7 @@ url: "https://campillofunollet.github.io" # the base hostname & protocol for you
 
 # Build settings
 markdown: kramdown
-theme: leap-day
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
